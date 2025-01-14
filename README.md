@@ -1,6 +1,6 @@
 # Hello there 👋
 
-A **Software Developer** by day ☼, building impactful projects,  
+A **Software Developer** by day ☀️, building impactful projects,  
 and a **Cybersecurity Enthusiast** by night 🌙, focused on network security and self-development.
 
 Aspiring **Cybersecurity Analyst** | Passionate about **Networking**, **Security**, & **Software Development**
