@@ -1,14 +1,11 @@
 # Hello there 👋
 
-A **Software Developer** by day ☀️, building impactful projects,  
-and a **Cybersecurity Enthusiast** by night 🌙, focused on network security and self-development.
+Enthusiastic **DevSecOps Engineer**
 
-Aspiring **Cybersecurity Analyst** | Passionate about **Networking**, **Security**, & **Software Development**
-
-- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.bash`, `.wireshark`, `.nmap`
+- ⚙️ I use daily: `.js`, `.py`, `.k8s`, `.c`, `.bash`, `.wireshark`, `.nmap`
 - 🌍 Focused on **network monitoring**, **traffic analysis**, and **secure development**.
-- 🔐 Passionate about **network security** and **cybersecurity solutions**.
-- 💬 Ping me about **software development**, **networking** or **cybersecurity**.
+- 🔐 Passionate about **network and industrial security**
+- 💬 Ping me about **software development**, **devops** or **security**.
 
 # 📊 GitHub Stats:
 
